@@ -1,0 +1,17 @@
+
+@import 'bootstrap';
+@import url('https://fonts.googleapis.com/css2?family=Macondo&display=swap');
+
+body{
+    font-family: 'Macondo', cursive;
+
+}
+center{
+    text-align: center;
+    -ms-flex-item-align: center;
+}
+.header-main {
+    height: 100px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS191hFkjm348AWmMKeyyE2HJAmAiPNWOvE65aqiV-FyV-M6IzZjBY7XM221IoRRPyNSAc&usqp=CAU);
+    background-position: fill;
+  }
